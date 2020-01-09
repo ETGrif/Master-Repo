@@ -15,9 +15,10 @@ public class Boldness
 
 			}
 
-public static void bolder() {
+		public static void bolder() 
+			{
 	
-}
+			}
 
 		public void meetPerson()
 		{
